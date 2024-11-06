@@ -1,0 +1,3 @@
+C:/Users/9688/CLionProjects/2 numeri/cmake-build-debug/CMakeFiles/2_numeri.dir
+C:/Users/9688/CLionProjects/2 numeri/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/9688/CLionProjects/2 numeri/cmake-build-debug/CMakeFiles/rebuild_cache.dir
